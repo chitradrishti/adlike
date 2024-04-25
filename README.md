@@ -3,6 +3,10 @@
 ## Usage
 --------------
 
+```
+pip install adlike
+```
+
 ```python3
 import requests
 from PIL import Image
