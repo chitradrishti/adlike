@@ -1,0 +1,9 @@
+torch
+pillow
+transformers
+timm
+git+https://github.com/openai/CLIP.git
+ftfy
+regex
+tqdm
+adlike
